@@ -1,0 +1,5 @@
+baseURL = 'https://berendvrakking.com/'
+languageCode = 'en-us'
+title = 'Berend Vrakkings Blog'
+theme = "holy"
+gtm_id = "GTM-MC32XLL"

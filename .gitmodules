@@ -1,0 +1,7 @@
+[submodule "berendsblog/themes/holy"]
+	path = berendsblog/themes/holy
+	url = https://github.com/serkodev/holy.git
+[submodule "berendsblog/public"]
+	path = berendsblog/public
+	url = https://github.com/BerendVrakking/berendvrakking.com.git
+	branch = main
