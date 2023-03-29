@@ -1,6 +1,11 @@
 ---
 title: "SQL - Quick introduction and use cases"
 date: 2023-03-27T22:32:14+02:00
+description: "How to automate metadata insertion within the HTML head element using the Hugo open-source static site generator"
+author: "Berend Vrakking"
+categories: ['value_1', 'value_2']
+tags: ['value_1', 'value_2']
+
 ---
 
 # Title of my first blog
@@ -17,6 +22,6 @@ The syntax of SQL is relatively straightforward, and the commands are designed t
 
 ``` sql
 SELECT column1,column2  ## select the columns that you need
-FROM analytics          ## from which data source do you need to get the data 
+FROM analytics          ## from which data source do you need to get the data
 ORDER BY column1 DESC;  ## order the data by column1 descending
 ```

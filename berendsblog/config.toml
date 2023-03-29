@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Berend Vrakkings Blog'
 theme = "holy"
 gtm_id = "GTM-MC32XLL"
+meta = "This is the blog of Berend Vrakking. He writes about Data & Analytics and Conversion Rate Optimalisation"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
